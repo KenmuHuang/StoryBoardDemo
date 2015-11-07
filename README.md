@@ -6,7 +6,7 @@
 
 Just a simple sample about building a series of coherent view controllers by using StoryBoard.
 
- ![ScreenShot_StoryBoard](/Users/Kenmu/Documents/iOSDevelopment/StoryBoardDemo/ScreenShot/ScreenShot_StoryBoard.png)
+ ![ScreenShot_StoryBoard](https://github.com/KenmuHuang/StoryBoardDemo/blob/master/ScreenShot/ScreenShot_StoryBoard.png)
 
 
 
@@ -14,19 +14,19 @@ Just a simple sample about building a series of coherent view controllers by usi
 
 iPhone 5s
 
- ![ScreenShot_iPhone 5s](/Users/Kenmu/Documents/iOSDevelopment/StoryBoardDemo/ScreenShot/ScreenShot_iPhone 5s.png)
+ ![ScreenShot_iPhone 5s](https://github.com/KenmuHuang/StoryBoardDemo/blob/master/ScreenShot/ScreenShot_iPhone%205s.png)
 
 iPhone 6
 
- ![ScreenShot_iPhone 6](/Users/Kenmu/Documents/iOSDevelopment/StoryBoardDemo/ScreenShot/ScreenShot_iPhone 6.gif)
+ ![ScreenShot_iPhone 6](https://github.com/KenmuHuang/StoryBoardDemo/blob/master/ScreenShot/ScreenShot_iPhone%206.gif)
 
 iPhone 6 Plus
 
- ![ScreenShot_iPhone 6 Plus](/Users/Kenmu/Documents/iOSDevelopment/StoryBoardDemo/ScreenShot/ScreenShot_iPhone 6 Plus.png)
+ ![ScreenShot_iPhone 6 Plus](https://github.com/KenmuHuang/StoryBoardDemo/blob/master/ScreenShot/ScreenShot_iPhone%206%20Plus.png)
 
 
 
- ![ScreenShot_Project](/Users/Kenmu/Documents/iOSDevelopment/StoryBoardDemo/ScreenShot/ScreenShot_Project.png)
+ ![ScreenShot_Project](https://github.com/KenmuHuang/StoryBoardDemo/blob/master/ScreenShot/ScreenShot_Project.png)
 
 
 
