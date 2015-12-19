@@ -6,7 +6,7 @@
 
 Just a simple sample about building a series of coherent view controllers by using Storyboard.
 
- ![ScreenShot_Storyboard](https://github.com/KenmuHuang/StoryBoardDemo/blob/master/ScreenShot/ScreenShot_Storyboard.png)
+ ![ScreenShot_Storyboard](https://github.com/KenmuHuang/StoryBoardDemo/blob/master/ScreenShot/ScreenShot_StoryboardBase.png)
 
 
 
