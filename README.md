@@ -1,12 +1,12 @@
-## StoryBoardDemo
+## StoryboardDemo
 
-#### A simple sample about the technology of StoryBoard.
+#### A simple sample about the technology of Storyboard.
 
 ------
 
-Just a simple sample about building a series of coherent view controllers by using StoryBoard.
+Just a simple sample about building a series of coherent view controllers by using Storyboard.
 
- ![ScreenShot_StoryBoard](https://github.com/KenmuHuang/StoryBoardDemo/blob/master/ScreenShot/ScreenShot_StoryBoard.png)
+ ![ScreenShot_Storyboard](https://github.com/KenmuHuang/StoryBoardDemo/blob/master/ScreenShot/ScreenShot_Storyboard.png)
 
 
 
@@ -32,4 +32,4 @@ iPhone 6 Plus
 
 ## License
 
-StoryBoardDemo is published under MIT License. See the LICENSE file for more.
+StoryboardDemo is published under MIT License. See the LICENSE file for more.
